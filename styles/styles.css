@@ -1,4 +1,4 @@
-.container { margin-top: 80px;}
+.container { margin-top: 20px;}
 
 #one{ font-family: serif;}
 
@@ -6,6 +6,8 @@
 
 ul {list-style-type: circle;}
 
-#second { margin-top: 20px; margin-right: 20px; background-color: rgb(102, 178, 178); color: black;}
+#second {  background-color:rgb(102, 178, 178); color: black; position: sticky; margin-right: 20px; margin-top: 20px;}
 
-button{ float: right;}
+button{ float: right; }
+
+#third{ margin-top: 20px;}
